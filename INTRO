@@ -2,3 +2,5 @@ SORTING == helpful for arraging data in a particular symmetric manner .
 Its of various types :
 1. Selection sort
 2. Insertion sort
+3. Merge sort 
+4. Bubble sort
